@@ -1,0 +1,1 @@
+wc -w sample.txt
